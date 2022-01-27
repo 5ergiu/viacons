@@ -1,5 +1,5 @@
 www/node_modules
-www/build
+www/public/assets
 www/.pnp
 www/.pnp.js
 www/coverage
